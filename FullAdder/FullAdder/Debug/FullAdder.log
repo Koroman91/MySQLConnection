@@ -1,0 +1,22 @@
+﻿Build started 2/8/2018 5:57:15 PM.
+     1>Project "c:\Users\stefan-ivan\documents\visual studio 2010\Projects\FullAdder\FullAdder\FullAdder.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\FullAdder.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\stefan-ivan\documents\visual studio 2010\Projects\FullAdder\Debug\FullAdder.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\FullAdder.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\stefan-ivan\documents\visual studio 2010\Projects\FullAdder\Debug\FullAdder.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\stefan-ivan\documents\visual studio 2010\Projects\FullAdder\Debug\FullAdder.lib" /MACHINE:X86 Debug\FullAdder.obj
+         Debug\stdafx.obj
+     1>FullAdder.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+         FullAdder.vcxproj -> c:\users\stefan-ivan\documents\visual studio 2010\Projects\FullAdder\Debug\FullAdder.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"c:\users\stefan-ivan\documents\visual studio 2010\Projects\FullAdder\Debug\FullAdder.exe;#1" /manifest Debug\FullAdder.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\FullAdder.unsuccessfulbuild".
+         Touching "Debug\FullAdder.lastbuildstate".
+     1>Done Building Project "c:\Users\stefan-ivan\documents\visual studio 2010\Projects\FullAdder\FullAdder\FullAdder.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.22
